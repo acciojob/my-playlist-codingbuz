@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.player_one{
+	
+			background-color : white;
+			border-radius:4px;
+}
+.player_two{
+	text-decoration-line:underline;
+	text-align:center;
+}
+#ce{
+	text-align:center;
+	
+}
+#cen{
+	text-align:center;
+	
+}
