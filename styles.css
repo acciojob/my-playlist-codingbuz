@@ -5,7 +5,8 @@
 			border-radius:4px;
 }
 .player_two{
-	text-decoration-line:underline;
+	background-color:rgb(255, 255, 255);
+	text-decoration-line:none;
 	text-align:center;
 }
 #ce{
