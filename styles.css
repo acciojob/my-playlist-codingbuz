@@ -1,19 +1,40 @@
-/*  your css code here. If applicable */
-.player_one{
-	
-			background-color : white;
-			border-radius:4px;
+body{
+	background-color: #cccccc;
+	align-items: center
 }
-.player_two{
-	background-color:rgb(255, 255, 255);
-	
-	text-align:center;
-}
-h1{
-	text-align:center;
-	
+h1, h2{
+	text-align: center
 }
 h2{
-	text-align:center;
+	margin-top:0px;
+}
+.player_one{
+	border: 1px solid black;
+	border-radius: 4px;
+	text-decoration-line: none;
+	background-color: white;
+	width: 100%;
+	margin-bottom: 0px;
+}
+a{
+	text-decoration-line: none;
+}
+li{
+	list-style-type: none;	
+}
+/* .rough{
+	position: relative;
+	width: 100%;
+	text-align: center;
+	border: 1px solid black;
+} */
+.player_two{
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 4px;
+	text-decoration-line: none;
+	background-color: white;
+	padding: 5px;
+	width: 330px
 	
 }
